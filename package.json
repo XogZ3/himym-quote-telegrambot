@@ -1,0 +1,18 @@
+{
+  "name": "himym-quote-telegrambot",
+  "version": "1.0.0",
+  "description": "A simple Telegram bot created with Telegraf JS package that returns quotes from the characters of TV show How I Met Your Mother",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "XogZ3",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "telegraf": "^4.12.2",
+    "telegram": "^2.16.4"
+  }
+}
